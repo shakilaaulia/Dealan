@@ -3,8 +3,6 @@ package repository
 
 import (
 	"context"
-
-	// Sesuaikan dengan nama module Anda di go.mod
 	"github.com/shakilaaulia/Dealan/auth-service/models"
 )
 
