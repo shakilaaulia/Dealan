@@ -3,7 +3,7 @@ package repository
 import (
 	"context"
 
-	"github.com/Dealan/driver-service/domain"
+	"github.com/shakilaaulia/Dealan/driver-service/domain"
 )
 
 //go:generate mockgen -source=interfaces.go -destination=../mocks/mock_driver_repository.go -package=mocks
